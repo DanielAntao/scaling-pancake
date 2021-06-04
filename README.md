@@ -1,4 +1,2 @@
 # scaling-pancake
-# scaling-pancake
-# scaling-pancake
-# scaling-pancake
+this is just a project
